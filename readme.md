@@ -1,1 +1,1 @@
-Orange Crud Vue Vuetify Webpack
+OrangeEx Crud Vue Vuetify Webpack
